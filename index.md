@@ -92,13 +92,13 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Skill badgeds
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Hacker Rank](https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg)
 
-### Large image
+### Certificates
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Hacker Rank](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
