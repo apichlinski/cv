@@ -19,20 +19,20 @@ I have been a Backend Developer for 11 years. For the first 7 years, I was a PHP
 \
 04.2012 - 09.2013 [1 years 6 months]\
 **Fullstack Developer** / Exis Interactive Sp. z o.o. / Łódź\
-\
+
 # Training, courses, certificates
 11.2023\
-Microsoft Azure - Software Development\
+**Microsoft Azure - Software Development**\
 Issued by: https://szkolachmury.pl\
 \
 10.2021\
-Zaawansowana architektura w Amazon Web Services\
+**Zaawansowana architektura w Amazon Web Services**\
 Issued by: ALTKOM Akademia\
 \
 06.2021\
-AWS Certified Cloud Practitioner (CLF) (5GTRW0Z1SNF41LC9)\
+**AWS Certified Cloud Practitioner (CLF)** (5GTRW0Z1SNF41LC9)\
 Issued by: Amazon Web Services\
 \
 04.2021\
-Google Cloud Skills Boost (/public_profiles/5986c001-216f-4ea0-b69c-7bd430d3626e)\
-Issued by: Google\
+**Google Cloud Skills Boost** (/public_profiles/5986c001-216f-4ea0-b69c-7bd430d3626e)\
+Issued by: Google
