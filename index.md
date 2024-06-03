@@ -4,11 +4,9 @@ layout: default
 
 # Hi!
 
-<p>
-I have been a Backend Developer for 11 years. For the first 7 years, I was a PHP developer, and for the last 3+ years, I have been a Java developer. Currently, I am developing in both Java and the Spring Boot framework, as well as in DevOps. I hold an AWS Cloud Practitioner certificate and have completed practical courses in GCP and Azure. On my GitHub, you can find a simple POC related to issuing invoices (fakturownia.pl) using AWS Lambda written in Java + Quarkus microprofile. The Lambda, along with all configurations, is deployed using a Java application that utilizes AWS CDK1. 
-</p>
-
-<p>If you have any other questions or need further assistance, feel free to ask!</p>
+I have been a Backend Developer for 11 years. For the first 7 years, I was a PHP developer, and for the last 3+ years, I have been a Java developer. Currently, I am developing in both Java and the Spring Boot framework, as well as in DevOps. I hold an AWS Cloud Practitioner certificate and have completed practical courses in GCP and Azure. On my GitHub, you can find a simple POC related to issuing invoices (fakturownia.pl) using AWS Lambda written in Java + Quarkus microprofile. The Lambda, along with all configurations, is deployed using a Java application that utilizes AWS CDK. \
+\
+If you have any other questions or need further assistance, feel free to ask!
 
 # Relevant Work Experience
 01.2021 - now [3 years +]\
