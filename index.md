@@ -10,13 +10,13 @@ If you have any other questions or need further assistance, feel free to ask!
 
 # Relevant Work Experience
 01.2021 - now [3 years +]
-Java Developer / MakoLab S.A. / Łódź
+**Java Developer** / MakoLab S.A. / Łódź
 
 09.2013 - 01.2021 [7 years 5 months]
-PHP Developer / MakoLab S.A. / Łódź
+**PHP Developer** / MakoLab S.A. / Łódź
 
 04.2012 - 09.2013 [1 years 6 months]
-Fullstack Developer / Exis Interactive Sp. z o.o. / Łódź
+**Fullstack Developer** / Exis Interactive Sp. z o.o. / Łódź
 
 # Training, courses, certificates
 11.2023
