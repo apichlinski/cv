@@ -4,3 +4,16 @@ description: My Digital CV with GitHub Pages.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+hackerrank:
+  is_user_page: true
+  owner_url: https://www.hackerrank.com/profile/andrzej_pichlin1
+github:
+  is_user_page: true
+  owner_url: https://github.com/apichlinski
+linkedin:
+  is_user_page: true
+  owner_url: https://www.linkedin.com/in/andrzej-pichli%C5%84ski-667807100/
+cloudskillsboost:
+  is_user_page: true
+  owner_url: https://www.cloudskillsboost.google/profile/badges
